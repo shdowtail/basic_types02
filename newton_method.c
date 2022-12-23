@@ -3,7 +3,7 @@
 #include <string.h>
 #include <limits.h>
 #include <math.h>
-
+/* Broken state*/
 int main (void)
 {
   char *str_number;
